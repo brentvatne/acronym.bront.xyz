@@ -1,0 +1,14 @@
+{
+  "name": "reverse-acronyms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "koa": "^2.2.0",
+    "lodash": "^4.17.4",
+    "word-list": "^2.0.0"
+  }
+}
